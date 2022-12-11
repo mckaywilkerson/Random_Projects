@@ -14,3 +14,5 @@ Just a note, this program will also do the following:
 Feel free to play around with it, and let me know if you have any questions or requests.
 
 Thanks!
+
+* Further development idea: integrate it directly with Asana via their API to update the assignments.
