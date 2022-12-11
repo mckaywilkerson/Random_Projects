@@ -4,7 +4,7 @@ This program goes through an assignment list, and sends assignment reminders to 
 
 Rundown of files:
  - .env - variables needed to run the code, specifically smtp information.
- - testing_assignments.csv - A list that needs to be in the following order for each person/line: email,name, assignment1, assignment2, ...etc.
+ - testing_assignments.csv - A list that needs to be in the following order for each person/line: name, email, assignment1, assignment2, ...etc.
  - email_program - The actual program that you will run.
 
 Just a note, this program will also do the following:
