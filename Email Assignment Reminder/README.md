@@ -15,4 +15,5 @@ Feel free to play around with it, and let me know if you have any questions or r
 
 Thanks!
 
-* Further development idea: integrate it directly with Asana via their API to update the assignments.
+Further Development Ideas:
+* Integrate it directly with Asana via their API to update the assignments.
