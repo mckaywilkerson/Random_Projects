@@ -3,6 +3,7 @@ import csv
 import datetime
 from email.message import EmailMessage
 
+# Import the .env file variables
 from dotenv import load_dotenv
 load_dotenv()
 import os
