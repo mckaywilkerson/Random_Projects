@@ -11,6 +11,6 @@ Just a note, this program will also do the following:
  - Skip displaying a person's assignment if their assignment is "None"
  - Order the assignments in the email based on the expected_order variable (aka. will display the assignments in a certain order instead of being based on their order in the assignment sheet)
 
-Feel free to play around with it, and let me know if you have any questions or requests. For example, I further modified it to send out an email reminder for this current week, as well as the next week that falls on a second or fourth Sunday (weird assignment schedule for this meeting).
+Feel free to play around with it, and let me know if you have any questions or requests.
 
 Thanks!
